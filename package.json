@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/LastKnownLord/wpTheme_React_ez/issues"
   },
-  "homepage": "https://github.com/LastKnownLord/wpTheme_React_ez#readme"
+  "homepage": "https://github.com/LastKnownLord/wpTheme_React_ez#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "node": "^10.0.0"
+  }
 }

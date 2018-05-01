@@ -1,0 +1,33 @@
+{
+  "name": "ezwptheme",
+  "version": "1.0.0",
+  "description": "first simple wordpress theme - ez",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LastKnownLord/wpTheme_React_ez.git"
+  },
+  "author": "DADS - ajd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LastKnownLord/wpTheme_React_ez/issues"
+  },
+  "homepage": "https://github.com/LastKnownLord/wpTheme_React_ez#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "node": "^10.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.11",
+    "react": "^16.3.2",
+    "style-loader": "^0.21.0",
+    "webpack": "^4.6.0"
+  }
+}
