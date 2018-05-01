@@ -1,0 +1,573 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sftp-config.json",
+			"settings":
+			{
+				"buffer_size": 930,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 94,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<?php"
+			}
+		},
+		{
+			"contents": "\n<!DOCTYPE html>\n\n<html>\n\t<head>\t\t\n\t</head>\n\t<body>\n\t</body>\n</html>\n",
+			"file": "header.php",
+			"file_size": 21,
+			"file_write_time": 131696026354772066,
+			"settings":
+			{
+				"buffer_size": 69,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "addedFunctions.php",
+			"settings":
+			{
+				"buffer_size": 2175,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 14,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<?php"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 269.0,
+		"last_filter": "npm",
+		"selected_items":
+		[
+			[
+				"npm",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"g",
+				"git: status"
+			],
+			[
+				"gs",
+				"git: status"
+			],
+			[
+				"gitini",
+				"git: init"
+			],
+			[
+				"git stat",
+				"git: status"
+			],
+			[
+				"git: br",
+				"git: branch"
+			],
+			[
+				"gi",
+				"git: branch"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"git:add",
+				"git: remote add"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"op",
+				"github: open repo"
+			],
+			[
+				"packa",
+				"Package Control: Add Repository"
+			],
+			[
+				"br",
+				"git: branch"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 524.0
+	},
+	"console":
+	{
+		"height": 102.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/!_AJD_!/PROJECTS/tests/REACTandWP/wpTheme.ez"
+	],
+	"file_history":
+	[
+		"/C/users/anton/appdata/local/temp/sublime-sftp-browse-1525148040/mapped/fullstackdeveloperforhire.com/demo/wp-config.php",
+		"/C/users/anton/appdata/local/temp/sublime-sftp-browse-1525137030/mapped/fullstackdeveloperforhire.com/demo/wp-config.php",
+		"/C/!_AJD_!/PROJECTS/tests/REACTandWP/wpTheme.ez/sftp-config.json",
+		"/C/Users/Anton/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/dads",
+		"/C/!_AJD_!/PROJECTS/tests/REACTandWP/wpTheme.ez/addedFunctions.php",
+		"/C/!_AJD_!/PROJECTS/tests/REACTandWP/wpTheme.ez/scripts/main.js",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/CODING_STYLING/JS+Technologies/JAVASCRIPT/js_SimpleFormPopUp/jsFormPopUp.js",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/CODING_STYLING/JS+Technologies/JAVASCRIPT/js_SimpleFormPopUp/style_jsFormPopUp.css",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/z_WEBPACK_z/webpack-config.js",
+		"/C/!AJD!/D-A-D-S/FSD_NOTES_20180412.xml",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/javascript_notes.xml",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/reactjs.xml",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/nodejs_notes.xml",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/es6_notes.xml",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/webpack_notes.xml",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/bootstrap_notes.xml",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/CODING_STYLING/CSS/sass.xml",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/FSD_NOTES_20180412.xml",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/CODING_STYLING/JS+Technologies/nodeJS/nodejs.xml",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/CODING_STYLING/JS+Technologies/nodeJS/DEMO/demo.js",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/CODING_STYLING/JS+Technologies/nodeJS/DEMO/synch.js",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/CODING_STYLING/JAVASCRIPT/js_SimpleFormPopUp/index.html",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC-CLIENT-NOTES_!/VisibleSmile.xml",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/CODING_STYLING/JAVASCRIPT/js_SimpleFormPopUp/jsFormPopUp.js",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/CODING_STYLING/CSS/cssPopUp_example.html",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/CODING_STYLING/CSS/css_popups.css",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/CODING_STYLING/JAVASCRIPT/javascript_popupForm.html",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-OtherHOSTS_!/VisibleSmile/BUs/20180427_serverFiles/sitemap.xml",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-OtherHOSTS_!/VisibleSmile/BUs/20180427_serverFiles/weebly_controlled_files.txt",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-OtherHOSTS_!/VisibleSmile/BUs/20180427_serverFiles/patient-info.html",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-OtherHOSTS_!/VisibleSmile/BUs/20180427_serverFiles/Home.html",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-OtherHOSTS_!/VisibleSmile/BUs/20180427_serverFiles/index.html",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/JS+Technologies/nodeJS/nodejs.xml",
+		"/C/!AJD!/D-A-D-S/DADS_HOSTING/20180425_NOTES_tmd-hostingANDemail.xml",
+		"/C/!AJD!/D-A-D-S/DADS_HOSTING/20180425_TMD_accounts.xml",
+		"/C/!AJD!/NOTES/DAILY/20180427_NOTES_DEV-CODE.xml",
+		"/C/Users/Anton/Google Drive/20180330_clientNotes_misc.xml",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-SG_!/20180409_SG_accounts.xml",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC-CLIENT-NOTES_!/EatonElectric.xml",
+		"/C/Users/Anton/Google Drive/DGC_Clients/20180411_CurrentClients.xml",
+		"/C/Users/Anton/Google Drive/DGC_Clients/20180413_DNs.xml",
+		"/C/!AJD!/NOTES/DAILY/20180425_DEV_NOTES.xml",
+		"/C/!AJD!/D-A-D-S/DADS_HOSTING/20180404_notes.xml",
+		"/C/Users/Anton/Google Drive/DGC_Clients/20180412_DNs.xml",
+		"/C/Users/Anton/Google Drive/DGC_Clients/20180411_DNs.xml",
+		"/C/Users/Anton/Google Drive/20180419_DailyNote.xml",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC-CLIENT-NOTES_!/20180418_DNs.html",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-SG_!/Rembrandt/communications/2016-03-27_email_ecommerce-questions.txt",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-SG_!/Rembrandt/backups/SITEGROUND/2018-03-30_BUs/servZipBU/rembCoffee_SG/wp-content/themes/customizr/index.php",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-SG_!/Rembrandt/backups/SITEGROUND/20180425_BUs/serverBU/20180425_remBU/wp-content/themes/customizr/header.php",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-SG_!/Rembrandt/backups/SITEGROUND/2018-03-30_BUs/servZipBU/rembCoffee_SG/wp-content/themes/customizr/header.php",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-SG_!/Rembrandt/backups/SITEGROUND/20180425_BUs/testing_files/index.html",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-SG_!/Rembrandt/backups/SITEGROUND/20180425_BUs/testing_files/wp-config.php",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-SG_!/Rembrandt/backups/SITEGROUND/2018-03-30_BUs/servZipBU/rembCoffee_SG/wp-config.php",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-SG_!/Rembrandt/backups/SITEGROUND/2018-03-30_BUs/servZipBU/rembCoffee_SG/wp-content/themes/customizr-child/style.css",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-SG_!/Rembrandt/backups/SITEGROUND/2018-03-30_BUs/servZipBU/rembCoffee_SG/wp-content/themes/customizr-child/functions.php",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-SG_!/Rembrandt/backups/SITEGROUND/2018-03-30_BUs/servZipBU/rembCoffee_SG/index.php",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-SG_!/Rembrandt/backups/SITEGROUND/20180425_BUs/testing_files/index.php",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-SG_!/Rembrandt/backups/SITEGROUND/2017-11-15_BU_toSG/public_html/index.php",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-SG_!/Rembrandt/backups/SITEGROUND/2018-04-02_BUs/serverBU/rcoffee_20180402/index.html",
+		"/C/!AJD!/PROJECTS/tests/index.html",
+		"/C/!AJD!/PROJECTS/tests/nodeJS_tests/index.html",
+		"/C/!AJD!/PROJECTS/tests/nodeJS_tests/ajd.js",
+		"/C/!AJD!/PROJECTS/tests/nodeJS_tests/package.json",
+		"/C/!AJD!/PROJECTS/tests/ajd.js",
+		"/C/!AJD!/PROJECTS/tests/package.json",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/CODING_STYLING/CSS/css_selectors.xml",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/CODING_STYLING/general_dev_scripting_css_node_fsd_etc.xml",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/PROJECT_CONTROL/GIT/notes_GIT.xml",
+		"/C/Users/Anton/Desktop/20180421_DN.xml",
+		"/C/Users/Anton/Desktop/20180423_DEV_NOTES.xml",
+		"/C/!AJD!/NOTES/FSD_NOTES_20180412.xml",
+		"/C/!AJD!/NOTES/general_dev_scripting_css_node_fsd_etc.xml",
+		"/C/!AJD!/NOTES/css_selectors.xml",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/cssPopUp_example.html",
+		"/C/!AJD!/NOTES/_FSD_NOTES_20180411_.xml",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/css_popups.css",
+		"/C/!AJD!/NOTES/DEVELOPMENT_notes/20180420_DEV_NOTES.xml",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-OtherHOSTS_!/VisibleSmile/BUs/20180423_serverFiles/original_today/stats/access_log_20180423/moo.patriciaashipmandmdc",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-OtherHOSTS_!/VisibleSmile/BUs/20180423_serverFiles/original_today/index.html",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-OtherHOSTS_!/VisibleSmile/BUs/20180423_serverFiles/revised/index.html",
+		"/C/!AJD!/NOTES/20180420_DN.xml",
+		"/C/!AJD!/NOTES/20180418_DNs.xml",
+		"/C/!AJD!/NOTES/20180419_DN.xml",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-OtherHOSTS_!/VisibleSmile/BUs/20180420_files/root_dir/index.html",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-OtherHOSTS_!/VisibleSmile/BUs/20180420_files/root_dir/services.html",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-OtherHOSTS_!/VisibleSmile/BUs/20180420_files/root_dir/files/main_style.css",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-OtherHOSTS_!/VisibleSmile/BUs/20180420_files/root_dir/patient-info.html",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-OtherHOSTS_!/VisibleSmile/BUs/20180420_files/root_dir/weebly_controlled_files.txt",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-OtherHOSTS_!/VisibleSmile/BUs/20180420_files/root_dir/mobile/index.html",
+		"/C/!AJD!/20180418_DNs.xml",
+		"/C/Users/Anton/Google Drive/20180418_DailyNote.xml",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-OtherHOSTS_!/VisibleSmile/UPDATES/20180416_VSD_Initial-Updates.xml",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC-CLIENT-NOTES_!/20180416_VSD_Initial-Updates.xml",
+		"/C/Users/Anton/Desktop/20180419_DN.xml",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-SG_!/DGC/DGC_Portfolios/20180420_interns_portfolio_info.xml",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-OtherHOSTS_!/FamilyJewels/20180420_FirstNote.xml",
+		"/C/Users/Anton/Desktop/20180420_DEV_NOTES.css",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC-CLIENT-NOTES_!/vs_original-css-from_main_styleDOTcss.css",
+		"/C/ajd/20180418_DNs.xml",
+		"/C/ajd/D-A-D-S/DADS_HOSTING/20180418_tmdHostNotes.xml",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC-CLIENT-NOTES_!/VisibleSmile_20180418.html",
+		"/C/Users/Anton/Desktop/notestoday.html",
+		"/C/Users/Anton/Desktop/notestoday.css",
+		"/C/Users/Anton/Desktop/20180418_DNs.html",
+		"/C/Users/Anton/Desktop/notestoday.xml",
+		"/C/ajd/D-A-D-S/ACCOUNTS/20180406_accounts.xml",
+		"/C/Users/Anton/Google Drive/DGC_Clients/temp_dgc_portfolio.html",
+		"/C/Users/Anton/Google Drive/2018-03-30_ACCOUNTS.txt",
+		"/C/Users/Anton/Google Drive/DGC_docs/TEMPLATES/emailsToClients/20180405_security_sweep.xml",
+		"/C/ajd/!_from_ajd_MBrain2_!/AJD_555/NOTES/_NOTES-201804010_.xml",
+		"/C/ajd/D-A-D-S/ACCOUNTS/20180403_accounts.xml",
+		"/C/ajd/NOTES-201804018.xml",
+		"/C/Users/Anton/Google Drive/DGC_Clients/20180413_DNs.css",
+		"/C/Users/Anton/Google Drive/DGC_docs/2017-10-30_DGC_Business_Accounts.txt",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC-CLIENT-NOTES_!/Florite/Florite.txt",
+		"/C/Users/Anton/Google Drive/DGC_docs/DOMAIN_TRNASFER_DOC.txt",
+		"/C/Users/Anton/Google Drive/DGC_Clients/!_DGC_CLIENTS-OtherHOSTS_!/VisibleSmile/SITE_info/vs_Website-Info.odt",
+		"/C/Users/Anton/Google Drive/DGC_docs/TEMPLATES/template_outlines.xml",
+		"/C/AJD_555/NOTES/general_dev_scripting_css_node_fsd_etc.xml",
+		"/C/AJD_555/_archives_/201804012_NOTES.xml",
+		"/C/AJD_555/NOTES/_NOTES-201804010_.xml",
+		"/C/AJD_555/NOTES/NOTES-201804017.xml",
+		"/C/AJD_555/NOTES/_NOTES-20180406_.xml",
+		"/C/$GetCurrent/Logs/downlevel_2018_01_21_06_29_48_597.log",
+		"/C/AJD_555/D-A-D-S/DADS_HOSTING/20180404_TMD-HOST-NOTES.xml",
+		"/C/AJD_555/D-A-D-S/DADS_HOSTING/20180404_notes.xml",
+		"/C/AJD_555/201804012_NOTES.xml"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sftp-config.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 930,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								612,
+								612
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 94,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 69,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "addedFunctions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"incomplete_sync": null,
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 133.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "ezWPtheme.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 104.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 105.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
