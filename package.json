@@ -1,0 +1,19 @@
+{
+  "name": "ezwptheme",
+  "version": "1.0.0",
+  "description": "first simple wordpress theme - ez",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LastKnownLord/wpTheme_React_ez.git"
+  },
+  "author": "DADS - ajd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LastKnownLord/wpTheme_React_ez/issues"
+  },
+  "homepage": "https://github.com/LastKnownLord/wpTheme_React_ez#readme"
+}
